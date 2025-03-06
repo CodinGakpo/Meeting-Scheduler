@@ -50,17 +50,15 @@ Sign in using Kinde authentication.
 Create a meeting by selecting a date, time, and participants.
 Send invitations and notify attendees via email.
 Manage meetings (edit, reschedule, or cancel).
+
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/5f9564ca-7fee-4fca-a615-9875a332256f)
-![image](https://github.com/user-attachments/assets/a795a158-1064-4f06-8cd4-1c0d3796b105)
-![image](https://github.com/user-attachments/assets/1e2a2fb4-acdd-4767-947e-ec9c0fa19c68)
-![image](https://github.com/user-attachments/assets/4a93c1f9-d7d0-416a-817c-02077cfff211)
-![image](https://github.com/user-attachments/assets/e5db717f-b562-45b6-b99c-3aea70ee0699)
-![image](https://github.com/user-attachments/assets/4cf11d28-e6eb-4b2a-9d98-6ebeaaae2354)
-![image](https://github.com/user-attachments/assets/732739b1-73f0-4bcf-b1a3-b9e33fddb2f0)
-
-
-
+![image](https://github.com/user-attachments/assets/dbe8d91f-f687-44aa-8c3e-8c6f103e831f)
+![image](https://github.com/user-attachments/assets/61e55f42-5713-4ebd-b4ac-602b8e49acca)
+![image](https://github.com/user-attachments/assets/d1ed7e94-9e2d-4dfd-85e8-a0cff96d969c)
+![image](https://github.com/user-attachments/assets/894cc42a-1343-4212-bab4-d799858a5200)
+![image](https://github.com/user-attachments/assets/251bb01b-e0fc-4024-9e51-3f700326223f)
+![image](https://github.com/user-attachments/assets/10003ad9-7d92-4b32-aa1c-4f8b2bf5baf9)
+![image](https://github.com/user-attachments/assets/5a8fd908-29ed-471b-bcf9-1c7eda371c00)
 
 
 
